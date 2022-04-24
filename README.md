@@ -4,6 +4,8 @@ This program prints out the lines from a source that contain a given word. Input
 
 ## Usage
 
+Download or clone the code before continuing. Then run the following commands in the folder the code is in.
+
 To compile the program run:
 
     gcc my-grep.c -o my-grep
